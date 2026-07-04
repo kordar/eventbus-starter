@@ -3,8 +3,8 @@ module github.com/kordar/eventbus-starter/fx/v2
 go 1.26.4
 
 require (
-	github.com/kordar/eventbus v0.1.3
-	github.com/kordar/eventbus-dispatcher-gotask v0.0.1
+	github.com/kordar/eventbus v0.1.4
+	github.com/kordar/eventbus-dispatcher-gotask v0.0.2
 	github.com/kordar/gocfg-load-module/fx/v2 v2.0.0
 	github.com/kordar/gotask v0.0.9
 	github.com/spf13/cast v1.10.0
